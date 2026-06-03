@@ -8,7 +8,7 @@ git clone https://github.com/NizmoDev/tilt.git
 cd tilt
 ```
 
-```bash
+```bash 
 iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/tilt-dev/tilt/master/scripts/install.ps1'))
 ```
 
